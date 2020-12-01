@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <meta charset="UTF-8">
+     <meta name ="description" content= "Welcom TO My Website">
+     <title>Task 6 DSC</title>               
+     <link rel="stylesheet" href="../css/CSS.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://kit.fontawesome.com/7bce490206.js" crossorigin="anonymous"></script>
+  </head>
+
+  <body>
+    <!-- start part 1-->
+    <section class="sec1">
+        <section class="container">
+        <section class="box-one">
+           <div class="art">
+            <i class="fas fa-quote-left"></i>
+             <h1>&ldquo;Best Design Quality&rdquo;</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetu adipiscin   elit.Phasellus luctus, lacus eullamcorper
+                        interdum, tortor augue elementum felis, ac gravida erat ipsum eget est. Donec aliquet quam non nisl
+                        mollis ultricies. Maecenas justo elit, rutrum eget magna at, imperdiet facilisis nunc. Nulla id
+                        tristique est, eget ullamcorper massa. In egestas dui finibus, consectetur libero elementum.</p>
+            </div> 
+            <section class="background-img">
+                      <div>
+                        <img src="../image/p2.jpg" alt="image1">
+                        <img src="../image/p3.jpg" alt="image2">
+                        <img src="../image/p4.jpg" alt="image3">
+                    </div>          
+                </section>
+           
+            </section>
+        </section>
+    </section>
+   <!-- end part 1 --
+    -------------------------------------------------------------------->
+   <!-- start part 2 -->
+
+    <section class="part2 sec2">
+        <section class="container">
+            <div class="head">
+                <h1>get every updates </h1>
+            </div>
+            <section class="content">
+                <section class="box">
+                    <h2>meet inclusive front-end design patterns a new smashing book</h2>
+                    <img src="../image/p2.jpg" alt="Image1">
+                    <div class="programmer">
+                        <div class="image">
+                            <img src="../image/ahmed eid.jpg" alt="Programmer">
+                        </div>
+                        <div class="design">
+                            <p class="name">AhMeD EiD</p>
+                            <p class="love"><i class="far fa-heart"></i> 29</p>
+                            <p class="message"><i class="far fa-comment"></i> +99</p>
+                        </div>
+                    </div>
+                </section>
+                <section class="box">
+                    <h2>meet inclusive front-end design patterns a new smashing book</h2>
+                    <img src="../image/p3.jpg" alt="Image2">
+                    <div class="programmer">
+                        <div class="image">
+                            <img src="../image/ahmed eid.jpg" alt="Programmer">
+                        </div>
+                        <div class="design">
+                            <p class="name">AhMeD EiD</p>
+                            <p class="love"><i class="far fa-heart"></i> 29</p>
+                            <p class="message"><i class="far fa-comment"></i> +99</p>
+                        </div>
+                    </div>
+                </section>
+                <section class="box">
+                    <h2>meet inclusive front-end design patterns a new smashing book</h2>
+                    <img src="../image/p4.jpg" alt="Image3">
+                    <div class="programmer">
+                        <div class="image">
+                            <img src="../image/ahmed eid.jpg" alt="Programmer">
+                        </div>
+                        <div class="design">
+                            <p class="name">AhMeD EiD</p>
+                            <p class="love"><i class="far fa-heart"></i> 29</p>
+                            <p class="message"><i class="far fa-comment"></i> +99</p>
+                        </div>
+                    </div>
+                </section>
+            </section>
+        </section>
+    </section>
+    <!-- end part 2 -->
+  </body>
+
+</html>

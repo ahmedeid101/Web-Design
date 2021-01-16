@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+ <head>
+        <meta charset="utf-8">
+        <titel>  </titel>
+		<link rel= 'stylesheet' href= 'style.css' />
+ </head>
+    
+    <body>
+
+ <div id="myDIV" class="header">
+  <h1>My To Do List</h1>
+  <input type="text" id="myInput" placeholder="Title...">
+  <span onclick="newElement()" class="addBtn">Add</span>
+ </div>
+
+  <section class="container">		
+   <ul id="myUL">
+    <li class="checked">Go through DataFlair's JavaScript tutorials</li>
+	<li>Read a Book on JavaScript</li>
+	<li>Practise the Codes</li>
+	<li class="checked">Organise my Notes</li>
+	<li>Take Quize</li>
+	<li>Create JavaScript Projects</li>
+	<li>Make a Video</li>
+	<li>Comprehend interview question</li>
+   </ul>
+  </section>	
+		<button type="button" id="clear_list" onclick="removeAll()">Clear Items</button>
+		
+		<script src="apps.js"></script>
+	</body>
+</html>	
